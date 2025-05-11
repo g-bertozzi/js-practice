@@ -1,0 +1,23 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif; 
+}
+
+#green { /*access by id*/
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+button { /*access by tag*/
+    border-radius: 5px; /*round corners*/
+    width: 100px;
+    height: 40px;
+    margin: 5px; /*space between buttons*/
+}
+   
